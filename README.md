@@ -1,5 +1,4 @@
 ![Darkend](Resources/cover.jpg "Darkend")
-# <p align=center> Darkend </p>
 ### <p align=center> A feature rich software with all the services you need to make Dank memer devs cry.
 
 # Features
