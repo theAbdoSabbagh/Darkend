@@ -1,6 +1,10 @@
 ![Darkend](Resources/cover.jpg "Darkend")
 ### <p align=center> A feature rich software with all the services you need to make Dank memer devs cry.
 
+# **NEW!**
+- Added support for slash commands
+- Darkend is now fully compatible with the new Dank memer rewrite
+- Support for captchas is coming soon!
 # Features
 - GUI Based autofarm to ease the process of editing settings
 - Extremely easy-to-use interface with tooltips
