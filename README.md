@@ -1,7 +1,7 @@
 ![Darkend](Resources/cover.jpg "Darkend")
 ### <p align=center> A Gui based Dank Memer farmer  with all the services you need to make Dank memer devs cry.
 
-# **CHANGELOG!**
+# **NEW!**
 - Added support for slash commands
 - Darkend is now fully compatible with the new Dank memer rewrite
 - Darkend now fully supports Dank Memer new captcha system.
@@ -47,7 +47,10 @@
 1. Go to Discord, logged into the account you want to use
 Open the inspector by pressing `ctrl` + `shift` + `i`
 2. Click the "Console" tab
-3. Paste this: ```(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()``` Into your console
+3. Paste this into your console:
+```js
+(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
+```
 4. Copy your token!
 <br></br>
 ## Enabling Discord's developer mode
