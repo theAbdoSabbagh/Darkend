@@ -46,10 +46,9 @@
 ## Getting an authorization token
 1. Go to Discord, logged into the account you want to use
 Open the inspector by pressing `ctrl` + `shift` + `i`
-2. Click the "network" tab
-3. Refresh the page
-4. Look for any entry called "science" and click on it
-5. Expand the "request headers" and look for the value "authorization", that is your token
+2. Click the "console" tab
+3. Paste this: "(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()" into your console
+4. Copy your token!
 <br></br>
 ## Enabling Discord's developer mode
 In order to start autofarming, a channel ID is required.
