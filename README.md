@@ -1,5 +1,5 @@
 ![Darkend](Resources/cover.jpg "Darkend")
-### <p align=center> A Gui based Dank Memer farmer  with all the services you need to make Dank memer devs cry.
+### <p align=center> A **Gui** based Dank Memer farmer  with all the services you need to make Dank memer devs cry.
 
 # **NEW!**
 - Added support for slash commands
