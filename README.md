@@ -4,7 +4,9 @@
 # **NEW!**
 - Added support for slash commands
 - Darkend is now fully compatible with the new Dank memer rewrite
-- Support for captchas is coming soon!
+- Darkend now fully supports Dank Memer new captcha system.
+- Added `Command delay`. A new feature to imitate being human and manually typing commands.
+- `Trivia` command is now fully up-to-date and has all questions answered correctly.
 # Features
 - GUI Based autofarm to ease the process of editing settings
 - Extremely easy-to-use interface with tooltips
