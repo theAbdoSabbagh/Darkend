@@ -30,7 +30,7 @@
 # Getting Started
 
 ## Installation
-1. Download the official release from the [the official website](http://darkend.tech/) or the [direct link](http://darkend.tech/Darkend.zip).
+1. Download the official release from the [the official website](https://darkend.tech/) or the [direct link](https://darkend.tech/Darkend.zip).
 2. Extract the zip file.
 3. Open the application.
 ### Windows
