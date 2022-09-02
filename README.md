@@ -2,16 +2,18 @@
 ### <p align=center> A **Gui** based Dank Memer farmer  with all the services you need to make Dank memer devs cry.
 
 # **NEW!**
-- Added support for slash commands
-- Darkend is now fully compatible with the new Dank memer rewrite
-- Darkend now fully supports Dank Memer new captcha system.
-- Added `Command delay`. A new feature to imitate being human and manually typing commands.
-- `Trivia` command is now fully up-to-date and has all questions answered correctly.
+   **NOW SUPPORTS REWRITE**
+- Added all new search places and crime actions.
+- Fixed a major bug that hasn't been known/reported for a long time: customization options have their data mixed up. I.E: Auto buy is death logging and vice versa
+- Preferred job now loads data on startup and supports auto save and is used in /work unless "Automatic" was on, and only if the bot didn't have a job
+- Added DM autofarm mode. Now channel ID is optional if DM mode was enabled.
+- Darkend now automatically scrolls between pages until it finds the last possible job in /work list, and then applies for it and does the work mini game automatically. All mini games are supported
 # Features
 - GUI Based autofarm to ease the process of editing settings
 - Extremely easy-to-use interface with tooltips
 - Ability to add over 100 accounts and autofarm with them at once
 - Compatible with all components, buttons, and dropdowns in the bot
+- Supports Dank Memer Rewrite
 - High configurability; Tons of options and lots of commands to choose and to use.
 - Automation of most currency commands
 - Automation of most powerups
