@@ -30,7 +30,7 @@
 # Getting Started
 
 ## Installation
-1. Download the official release from the [the official website](http://darkend.tech/) or the [direct link](http://darkend.tech/Darkend.zip).
+1. Download the official release from the [the official website](https://darkend.tech/) or the [direct link](https://darkend.tech/Darkend.zip).
 2. Extract the zip file.
 3. Open the application.
 ### Windows
@@ -69,4 +69,4 @@ In order to start autofarming, a channel ID is required.
 3. Shifts are not added **yet**.
     - I advice you autofarm for less than 5 hours before taking a break for a few hours so you don't get banned.
 <br></br>
-# Need Support? [Join our discord](https://discord.gg/PkNNa8DtBd)
+# Need Support? [Join our discord](https://discord.gg/pRJtCcBhfV)
