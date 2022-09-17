@@ -1,4 +1,4 @@
-![Darkend](Resources/cover.jpg "Darkend")
+![Darkend](Resources/Darkend_Cover.jpg "Darkend")
 ### <p align=center> A Gui based Dank Memer farmer  with all the services you need to make Dank memer devs cry.
 
 # **NEW!**
