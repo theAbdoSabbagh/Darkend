@@ -7,7 +7,7 @@ The code was in the process of a new private beta updated, so it's unstable. I h
 
 Star the repo and follow me if you use this code, I'd appreciate the support. It's been a long run.
 
-Special thanks to my private beta testers and all the friends I've made whilst developing Darkend. Especially to splewedge, formally known as didlly. Also thanks to everyone who has supported me and contributed to Darkend, like making a better website design, suggest new features, and supply me some DMC to do some tests using them.
+Special thanks to my private beta testers and all the friends I've made whilst developing Darkend. Especially to splewdge, formally known as didlly. Also thanks to everyone who has supported me and contributed to Darkend, like making a better website design, suggest new features, and supply me some DMC to do some tests using them.
 
 # **NEW!**
 - Added support for slash commands
