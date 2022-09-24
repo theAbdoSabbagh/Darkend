@@ -1,6 +1,14 @@
 ![Darkend](Resources/Darkend_Cover.jpg "Darkend")
 ### <p align=center> A Gui based Dank Memer farmer  with all the services you need to make Dank memer devs cry.
 
+# Farewell, Darkend.
+Darkend has been discontinued. The code might not be the best but I made this to push my limits and learn new things, keep in mind this is my first GUI application ever, I think I did a good job. I will not be accepting PRs or responding to issues since Darkend will no longer be maintained by me. If you want to know how to build it, you're a skid and you should probably stay away from the code, I won't provide any information on how to run it.
+The code was in the process of a new private beta updated, so it's unstable. I hope Dank Memer fixes their economy and makes actual good updates and fixes to their system and make a better anti-cheat.
+
+Star the repo and follow me if you use this code, I'd appreciate the support. It's been a long run.
+
+Special thanks to my private beta testers and all the friends I've made whilst developing Darkend. Especially to splewedge, formally known as didlly.
+
 # **NEW!**
 - Added support for slash commands
 - Darkend is now fully compatible with the new Dank memer rewrite
